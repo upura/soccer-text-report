@@ -24,7 +24,6 @@ To be written.
 ## Requirement
 - Python 3.x
     - selenium
-    - bs4
 
 ## Author
 
