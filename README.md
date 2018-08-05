@@ -1,4 +1,4 @@
-Soccer Text Reporter
+Soccer Text Report
 ===
 Jリーグ公式サイト (https://www.jleague.jp/) のテキスト速報から、自動的に試合の要約を生成
 
